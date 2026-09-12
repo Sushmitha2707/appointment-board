@@ -237,7 +237,7 @@ Make sure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <git clone https://github.com/Sushmitha2707/appointment-board.git>
 cd appointment-board
 ```
 
@@ -361,7 +361,3 @@ Possible future enhancements include:
 B.E. Artificial Intelligence & Machine Learning
 
 ---
-
-## 📄 License
-
-This project was developed as a full-stack application assignment.
