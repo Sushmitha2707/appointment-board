@@ -1,0 +1,12 @@
+{
+  "name": "appointment-board",
+  "version": "1.0.0",
+  "description": "Full-stack Appointment Board application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd backend && venv\\Scripts\\python.exe -m uvicorn main:app --reload\" \"cd frontend && npm run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^..."
+  }
+}
